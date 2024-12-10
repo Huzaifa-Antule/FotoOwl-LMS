@@ -46,7 +46,7 @@ The database schema is designed to support the following entities:
 2. **Clone the repository**:
    ```bash
    git clone https://github.com/Huzaifa-Antule/FotoOwl-LMS.git
-   cd library-management-system
+   cd <project folder>
    ```
 
 3. **Install required dependencies**:
